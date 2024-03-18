@@ -5,11 +5,17 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 Soy Fullstack Developer, una persona perseverante y curiosa (aptitudes que me han dado mis 15 años como policia),  lo que me lleva constantemente a investigar nuevas posibilidades. por eso decidi ingresar a este mundo de la tecnología, me gusta liderar, colaborar y empatizo con los demas. En los momentos mas criticos es cuando, al encarar nuevos proyectos me ocupo activamente de generar ambientes de trabajo colaborativos, de fomentar la unión y las buenas relaciones interpersonales, con el fin de producir código y productos finales de excelencia. Mi experiencia en el Bootcamp de Henry me llevo a adquirir grandes conocimientos este mundo de la tecnología, lo que tambien me impulso a investigar sobre tecnologias que no conocia para implementarlas en mis proyectos.
+🎓 Soy Fullstack Developer, una persona perseverante y curiosa (aptitudes que me han dado mis 15 años como policia),  lo que me lleva constantemente a investigar nuevas posibilidades. por eso decidi ingresar a este mundo de la tecnología, me gusta liderar, colaborar y empatizo con los demas. En los momentos mas criticos es cuando, al encarar nuevos proyectos me ocupo activamente de generar ambientes de trabajo colaborativos, de fomentar la unión y las buenas relaciones interpersonales, con el fin de producir código y productos finales de excelencia. Mi experiencia en el Bootcamp de Henry me llevo a adquirir grandes conocimientos este mundo de la tecnología, lo que tambien me impulso a investigar sobre tecnologias que no conocia para implementarlas en mis proyectos. 
 
 
 💻 Busco seguir aprendiendo nuevas tecnologías e implementar arquitecturas de software y patrones de diseño novedosos.
 En lo personal, me interesan, las buenas relaciones, compartir mi vida con mi familia y mis amigos. 
+
+💻 Proyectos:
+- Rick and Morti;
+- Pokemon World;
+- Innovatech.
+
 
 📝 roles en el ámbito: desarrollador... líder de equipo ... . y en un futuro quién sabe ☺️
 
