@@ -41,7 +41,7 @@ En lo personal, me interesan, las buenas relaciones, compartir mi vida con mi fa
   <td width="25%" align="center">
     <p align="center">
      <a href="https://youtu.be/SqSai3H9GeE" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
+        <img align="center" width=50% src="https://innovatechok.vercel.app/assets/logo-DBrRWDGz.png"   alt="VIDEO" /></a>
       </p>
     <p align="center">
         <a href="https://youtu.be/SqSai3H9GeE" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
