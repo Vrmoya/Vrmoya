@@ -28,7 +28,7 @@ En lo personal, me interesan, las buenas relaciones, compartir mi vida con mi fa
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,nodejs,git,github,postman,vscode,postgres,react,redux,seqelize,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,nodejs,git,github,postman,vscode,postgres,react,redux,seqelize&perline=12" />
   </a>
 </p>
 <br>
