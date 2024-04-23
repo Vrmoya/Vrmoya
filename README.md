@@ -19,7 +19,7 @@ En lo personal, me interesan, las buenas relaciones, compartir mi vida con mi fa
 
 📝 roles en el ámbito: desarrollador... líder de equipo ... . y en un futuro quién sabe ☺️
 
-📫 Contacto: **viclauti@gmail.com**
+📫 Contacto: **viclauti@gmail.com** || **victormoya.dev@gmail.com**
 <!--Intro end-->
   </p>
 <br>
