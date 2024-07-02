@@ -5,7 +5,7 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 Soy Fullstack Developer, una persona perseverante y curiosa (aptitudes que me han dado mis 15 años como policia),  lo que me lleva constantemente a investigar nuevas posibilidades. por eso decidi ingresar a este mundo de la tecnología, me gusta liderar, colaborar y empatizo con los demas. En los momentos mas criticos es cuando, al encarar nuevos proyectos me ocupo activamente de generar ambientes de trabajo colaborativos, de fomentar la unión y las buenas relaciones interpersonales, con el fin de producir código y productos finales de excelencia. Mi experiencia en el Bootcamp de Henry me llevo a adquirir grandes conocimientos este mundo de la tecnología, lo que tambien me impulso a investigar sobre tecnologias que no conocia para implementarlas en mis proyectos. 
+🎓 Desarrollador Full Stack con sólida formación en tecnologías web, Frontend y Backend adquirida en el Bootcamp de Henry. Perseverante y curioso, con habilidades de liderazgo y trabajo en equipo, dispuesto a aplicar y expandir mis conocimientos en entornos colaborativos y dinámicos.
 
 
 💻 Busco seguir aprendiendo nuevas tecnologías e implementar arquitecturas de software y patrones de diseño novedosos.
